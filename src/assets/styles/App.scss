@@ -1,4 +1,11 @@
 body {
     margin: 0;
-    background-color: red;
+    background-color: #8f57fd;
+    font-family: sans-serif;
+}
+*{
+    box-sizing: border-box;
+}
+::-webkit-scrollbar{
+    display: none;
 }
